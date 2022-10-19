@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🔭 I’m currently working on **CDMS ODISHA**
+- 🔭 I’m currently working on 
 -->
 
 <h1 class="container typed-ou" align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/adityakumar29/">Aditya Kumar</a></h1>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **VueJS**
 
 - 📫 How to reach me <b><a href="mailto:adityasrivastava.niet@gmail.com?subject=Mail from GitHub">Mail Me</a></b>
 
