@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me <b><a href="mailto:adityasrivastava.niet@gmail.com?subject=Mail from GitHub">Mail Me</a></b>
 
