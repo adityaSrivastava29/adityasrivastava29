@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 class="container typed-ou" align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/adityakumar29/">Aditya Kumar</a></h1>
-<h3 align="center">A passionate Fullstack Java Developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="coding" width="60%" max-width="65%" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaSrivastava29&label=Profile%20views&color=0e75b6&style=flat" alt="adityaSrivastava29" /> </p>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **how LLM Works**
 
 - 📫 How to reach me <b><a href="mailto:adityasrivastava.niet@gmail.com?subject=Mail from GitHub">Mail Me</a></b>
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Writes Code For Fun**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript**
