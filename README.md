@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me <b><a href="mailto:adityasrivastava.niet@gmail.com?subject=Mail from GitHub">Mail Me</a></b>
 
-- 👨‍💻 My Portfolio <b><a href="https://adityasrivastava29.github.io/">Check Here</a></b>
+- 👨‍💻 My Portfolio <b><a href="https://adityasri.in/">Check Here</a></b>
 
 - ⚡ Fun fact **Writes Code For Fun**
 
