@@ -44,6 +44,9 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaSrivastava29&theme=radical" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaSrivastava29&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
+<div>
+  [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasrivastava29&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
 
