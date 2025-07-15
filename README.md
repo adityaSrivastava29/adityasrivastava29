@@ -4,11 +4,16 @@
 **adityaSrivastava29/adityasrivastava29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 <div align="center">
   <h1>Hi there! 👋 I'm <a href="https://www.linkedin.com/in/adityakumar29/">Aditya Kumar</a></h1>
-<!--   <h3>🚀 Fullstack Developer</h3> -->
+  <!--   <h3>🚀 Fullstack Developer</h3> -->
   <!-- <img src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding" width="60%" style="max-width:65%;"/> -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=adityaSrivastava29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </p>
 </div>
+
 
 ## 🧑‍💻 About Me
 
@@ -67,5 +72,11 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
 - 🧑‍💻 Mastering advanced TypeScript and NestJS for robust server-side applications
 - 🧩 Sharpening System Design principles for high-performance, distributed systems
 - 📚 Continuously learning and sharing knowledge through content creation
+
+---
+
+## 📝 Recent JavaScript Notes
+
+- 📒 Check out my latest JavaScript notes and resources: [JavaScript Notes](https://adityasri.in/JavaScriptConcepts/)
 
 ---
