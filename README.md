@@ -6,9 +6,13 @@
 
 
 <div align="center">
-  <h1>Hi there! 👋 I'm <a href="https://www.linkedin.com/in/adityakumar29/">Aditya Kumar</a></h1>
-  <!--   <h3>🚀 Fullstack Developer</h3> -->
-  <!-- <img src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding" width="60%" style="max-width:65%;"/> -->
+  <h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Aditya.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
+
+<h3 align='center'>
+  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=adityaSrivastava29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   </p>
@@ -41,7 +45,12 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
 </div>
 
 ---
+## ‍🎃 Coding Profile:
 
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adityasri29)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityasri29)
+
+---
 ## 😍 GitHub Stats
 
 <div align="center">
