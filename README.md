@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm Aditya, a passionate software engineer with a love for building scalable backend systems and modern web apps. My main interests are in Java, Spring Boot, and JavaScript frameworks like NestJS, Node.js, and React. I also enjoy sharing knowledge through content creation and collaborating with the tech community.
+Hi! I'm Aditya, a passionate software engineer with a love for building scalable backend systems, modern web apps and AI Agents. My main interests are **JavaScript** ,**TypeScript**, **NestJS**, **Node.js** and **React** and also have knowledge of Java & Spring Boot. I also enjoy sharing knowledge through content creation and collaborating with the tech community.
 
 ---
 
@@ -76,14 +76,13 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
 ## 🎯 What I'm Currently Focusing On
 
 - 🤖 Deep diving into Large Language Models (LLMs), Generative AI, and building practical AI Agents
-- 🏗️ Architecting and developing scalable backend APIs with Java & Spring Boot
 - 🧑‍💻 Mastering advanced TypeScript and NestJS for robust server-side applications
 - 🧩 Sharpening System Design principles for high-performance, distributed systems
 - 📚 Continuously learning and sharing knowledge through content creation
 
 ---
 
-## 📝 Recent JavaScript Notes
+## 📝 My JavaScript Notes
 
 - 📒 Check out my latest JavaScript notes and resources: [JavaScript Notes](https://adityasri.in/JavaScriptConcepts/)
 
