@@ -81,9 +81,15 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
 - 📚 Continuously learning and sharing knowledge through content creation
 
 ---
+## My projects
+- 📒 Check out the [React Learning App](https://adityasri.in/react-learning-app)
+- AI Persona App Built with OpenAI API[Link](https://adityasri.in/ai-persona-chat-frontend/)
+- Some Projects loading...
 
-## 📝 My JavaScript Notes
+---
+## 📝 My Notes
 
-- 📒 Check out my latest JavaScript notes and resources: [JavaScript Notes](https://adityasri.in/JavaScriptConcepts/)
+- 📒 JavaScript notes and resources: [JavaScript Notes](https://adityasri.in/JavaScriptConcepts/)
+- [Java Notes](https://aditya29.notion.site/Java-interview-Notes-207bc22ab99080f79e7cec9dee3e38ad)
 
 ---
