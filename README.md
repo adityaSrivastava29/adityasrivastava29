@@ -49,16 +49,16 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adityasri29)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityasri29)
 
----
-## 😍 GitHub Stats
+<!-- --- >
+<!-- ## 😍 GitHub Stats >
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaSrivastava29&show_icons=true&theme=radical" alt="Aditya's GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaSrivastava29&theme=radical" alt="GitHub Streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaSrivastava29&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
 <div>
-</div>
+</div> -->
 
 ---
 
@@ -66,7 +66,7 @@ Hi! I'm Aditya, a passionate software engineer with a love for building scalable
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityakumar29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adityasrivastava.niet@gmail.com?subject=Mail from GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:adityasri.in@gmail.com?subject=Mail from GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/adityasri_in" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://adityasri.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
