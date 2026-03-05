@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Full Stack Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=adityaSrivastava29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
