@@ -63,6 +63,8 @@ I'm Aditya, a software engineer focused on building scalable backend systems, mo
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityasri29)
 
 ---
+## 🎃 Language Stats
+![Language Stats](stats/leaderboard_by_lines.png)
 
 ## 🎯 Current Focus
 
