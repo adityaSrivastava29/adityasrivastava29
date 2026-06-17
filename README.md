@@ -70,7 +70,9 @@ I'm Aditya, a software engineer focused on building scalable backend systems, mo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasrivastava29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
   
 </div>
+
 ---
+
 ## 🎃 Language Stats
 ![Language Stats](stats/leaderboard_by_lines.png)
 
