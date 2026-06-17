@@ -62,6 +62,14 @@ I'm Aditya, a software engineer focused on building scalable backend systems, mo
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/adityasri29)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adityasri29)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasrivastava29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasrivastava29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  
+</div>
 ---
 ## 🎃 Language Stats
 ![Language Stats](stats/leaderboard_by_lines.png)
