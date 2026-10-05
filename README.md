@@ -95,8 +95,8 @@ I'm Aditya, a software engineer focused on building scalable backend systems, mo
 
 ## 📝 Notes
 
-- 📘 [JavaScript Notes](https://adityasri.in/JavaScriptConcepts/)
-- ☕ [Java Interview Notes](https://aditya29.notion.site/Java-interview-Notes-207bc22ab99080f79e7cec9dee3e38ad)
+- 📘 [Frontend Interview Guide](https://adityasri.in/frontend-interview-guide/)
+- ☕ [Backend Engineering Guide](https://adityasri.in/backend-interview-guide/)
 
 ---
 
